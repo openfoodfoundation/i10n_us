@@ -251,47 +251,4 @@
   id: "91367981"
   abbr: WV
 
-  name: Ontario
-  country_id: "35"
-  id: "52"
-  abbr: "ON"
-
-  name: Quebec
-  country_id: "35"
-  id: "53"
-  abbr: QC
-
-  name: Nova Scotia
-  country_id: "35"
-  id: "54"
-  abbr: NS
-
-  name: New Brunswick
-  country_id: "35"
-  id: "55"
-  abbr: NB
-
-  name: Manitoba
-  country_id: "35"
-  id: "56"
-  abbr: MB
-
-  name: British Columbia
-  country_id: "35"
-  id: "57"
-  abbr: BC
-
-  name: Prince Edward Island
-  country_id: "35"
-  id: "58"
-  abbr: PE
-
-  name: Saskatchewan
-  country_id: "35"
-  id: "59"
-  abbr: SK
-
-  name: Alberta
-  country_id: "35"
-  id: "60"
-  abbr: AB
+  
