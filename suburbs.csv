@@ -1,4 +1,4 @@
-"post_code","latitude","longitude","name","state_id","county"
+"postcode","latitude","longitude","name","state_id","county"
 "00501",40.922326,-72.637078,"Holtsville","NY","Suffolk"
 "00544",40.922326,-72.637078,"Holtsville","NY","Suffolk"
 "00601",18.165273,-66.722583,"Adjuntas","PR","Adjuntas"
