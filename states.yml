@@ -1,20 +1,16 @@
 --- 
-states_043: 
   name: Michigan
   country_id: "214"
   id: "931624400"
   abbr: MI
-states_032: 
   name: South Dakota
   country_id: "214"
   id: "615306087"
   abbr: SD
-states_021: 
   name: Washington
   country_id: "214"
   id: "414569975"
   abbr: WA
-states_010: 
   name: Wisconsin
   country_id: "214"
   id: "103680699"
