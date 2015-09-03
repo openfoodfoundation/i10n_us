@@ -1,4 +1,10 @@
 --- 
+- statenum: states_012 
+  name: PUERTO RICO
+  country_id: "214"
+  id: "123456789"
+  abbr: PR
+
 - statenum: states_043 
   name: Michigan
   country_id: "214"
