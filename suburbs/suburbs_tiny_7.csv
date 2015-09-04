@@ -1,8 +1,8 @@
-"zip_code","latitude","longitude","city","state","county"
-"96713",20.725172,"-156.022930","Hana","HI","Maui"
-"96714",22.213592,"-159.482796","Hanalei","HI","Kauai"
-"96715",21.979991,"-159.512392","Hanamaulu","HI","Kauai"
-"96716",22.020489,"-159.617765","Hanapepe","HI","Kauai"
-"96717",21.583507,"-157.882511","Hauula","HI","Honolulu"
-"96718",19.593456,"-155.438015","Hawaii National Park","HI","Hawaii"
-"96719",20.222737,"-155.818291","Hawi","HI","Hawaii"
+postcode,latitude,longitude,name,state_id
+00501,40.922326,-72.637078,Holtsville,NY
+00544,40.922326,-72.637078,Holtsville,NY
+01001,42.140549,-72.788661,Agawam,MA
+01002,42.367092,-72.464571,Amherst,MA
+01003,42.369562,-72.63599,Amherst,MA
+01004,42.384494,-72.513183,Amherst,MA
+01005,42.32916,-72.139465,Barre,MA
