@@ -24,3 +24,6 @@ i10n_repo: https://github.com/openfoodnetwork/i10n_us
 currency: USD
 checkout_zone: USA
 ```
+
+I also noticed that at least when using this seed data to install via Ansible, beginning by moving the `suburbs/suburbs_tiny.csv` into the place of the top level `suburbs.csv` seemed to "prime the pump" when errors were occuring in the `[deploy | seed database] process.
+
